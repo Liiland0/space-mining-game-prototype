@@ -71,3 +71,8 @@ This project is a **prototype / work-in-progress** developed to learn experience
 - Expand asteroid generation
 - Add enemy AI and combat systems
 - Expand ship upgrade tree
+
+---
+
+## Gameplay Video
+[Watch Gameplay Demo](https://youtu.be/B0s9bVgVu6E)
