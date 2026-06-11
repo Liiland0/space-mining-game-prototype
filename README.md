@@ -78,3 +78,7 @@ This project is a **prototype / work-in-progress** developed to learn experience
 
 ## Gameplay Video
 [Watch Gameplay Demo](https://youtu.be/B0s9bVgVu6E)
+
+## Screenshots
+![Gameplay](Screenshots/Gameplay.png),
+![Inventory](Screenshots/Inventory.png)
