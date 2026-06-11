@@ -29,6 +29,8 @@ Players explore space, mine resources from asteroids, complete quests, and upgra
 
 ### Gameplay Systems
 - Destructible environment using tilemaps and raycast-based interactions
+  - Asteroid's mass and center of gravity are recalculated when parts are destroyed
+  - All objects are pushable through space. Physics heavy movement and gameplay
 - Modular quest system with objective tracking and reward distribution
 - Ship upgrade system allowing progression through gameplay improvements
 
