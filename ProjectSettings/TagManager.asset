@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Door
+  - Station
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Terrain
+  - Water
+  - UI
+  - Item
+  - MiniMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backround
+    uniqueID: 1783519617
+    locked: 0
+  - name: ParalaxLayer1
+    uniqueID: 3347940465
+    locked: 0
+  - name: ParalaxLayer2
+    uniqueID: 903530627
+    locked: 0
+  - name: MidMidground
+    uniqueID: 3712258309
+    locked: 0
+  - name: Midground
+    uniqueID: 832416261
+    locked: 0
+  - name: Player
+    uniqueID: 2513626553
+    locked: 0
+  - name: Foreground
+    uniqueID: 2720004535
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
